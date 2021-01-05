@@ -1,9 +1,8 @@
-# hello-world
-Repository for CS 246 first program
+# Hello-world
 
 ## Overview 
-This is a program writen in python </b> 
-It prints "Hello World" to the console when the program us run 
+This is a program written in python </b> 
+It prints "Hello World" to the console when the program us run. The purpose of writing this program was to familiarize with the github repository and python projects. 
 
 [Software Demo Video](http://youtube.link.goes.here)
  
