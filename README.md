@@ -14,4 +14,9 @@ Please go to https://www.python.org/downloads/
 to install the latest version of Python
 
 ## Useful Websites
-* [W3 schools](https://www.w3schools.com/python/)
+* [Lean Python with W3 schools](https://www.w3schools.com/python/)
+* [Python for beginers](https://www.python.org/about/gettingstarted/)
+* [Codecademy free Python course](https://www.codecademy.com/learn/learn-python)
+
+
+
